@@ -1,0 +1,1 @@
+No pude definir correctamente la metodo de comparar el nivel de las armas ya que no entendi como funciona el "compareTo" y "Comparable". Si me pueden orientar con ese tema se los agradeceria! Espero la devolucion. :)
